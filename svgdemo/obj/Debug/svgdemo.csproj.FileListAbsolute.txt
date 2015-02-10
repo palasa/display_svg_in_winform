@@ -1,0 +1,8 @@
+C:\Users\崇\Desktop\svgdemo\svgdemo\bin\Debug\svgdemo.exe
+C:\Users\崇\Desktop\svgdemo\svgdemo\bin\Debug\svgdemo.pdb
+C:\Users\崇\Desktop\svgdemo\svgdemo\obj\Debug\svgdemo.csprojResolveAssemblyReference.cache
+C:\Users\崇\Desktop\svgdemo\svgdemo\obj\Debug\svgdemo.Form1.resources
+C:\Users\崇\Desktop\svgdemo\svgdemo\obj\Debug\svgdemo.Properties.Resources.resources
+C:\Users\崇\Desktop\svgdemo\svgdemo\obj\Debug\svgdemo.csproj.GenerateResource.Cache
+C:\Users\崇\Desktop\svgdemo\svgdemo\obj\Debug\svgdemo.exe
+C:\Users\崇\Desktop\svgdemo\svgdemo\obj\Debug\svgdemo.pdb
